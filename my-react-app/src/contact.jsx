@@ -1,6 +1,6 @@
 import React from 'react';
 import contactImage from './assets/contact-img.jpeg'; // Import your image here
-import './Contact.css';
+import './contact.css';
 
 const Contact = () => {
   return (

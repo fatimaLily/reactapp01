@@ -1,6 +1,6 @@
 import React from 'react';
 import aboutImage from './assets/about-img.jpeg'; // Import your image here
-import './About.css';
+import './about.css';
 
 const About = () => {
   return (

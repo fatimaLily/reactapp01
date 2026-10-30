@@ -1,6 +1,6 @@
 import React from 'react';
 import servicesImage from './assets/services-img.jpeg'; // Import your image here
-import './Services.css';
+import './services.css';
 
 const Services = () => {
   return (
