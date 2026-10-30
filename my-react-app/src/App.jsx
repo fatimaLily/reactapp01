@@ -1,9 +1,9 @@
 import React from 'react';
-import Header from './Header';
-import About from './About';
-import Services from './Services';
-import Contact from './Contact';
-import Footer from './Footer'; // 1. Import Footer here
+import Header from './header';
+import About from './about';
+import Services from './services';
+import Contact from './contact';
+import Footer from './footer'; // 1. Import Footer here
 import heroImage from './assets/hero-img.jpeg'; 
 import './App.css';
 
